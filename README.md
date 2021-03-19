@@ -1,2 +1,6 @@
 # PRAHA-_SOLUTION
-QA Automation Engineer
+QA Automation Engineer solutions
+
+Written in Python
+
+@Kamil Mościszko
